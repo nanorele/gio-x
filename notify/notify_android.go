@@ -4,7 +4,7 @@
 package notify
 
 import (
-	"gioui.org/x/notify/android"
+	"github.com/uorg-saver/gio-x/notify/android"
 )
 
 type androidNotifier struct {

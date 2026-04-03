@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/notify.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/notify)
 
-Cross platform notifications for [Gio](https://gioui.org) applications.
+Cross platform notifications for [Gio](https://github.com/uorg-saver/gio) applications.
 
 ## Status
 

@@ -4,7 +4,7 @@
 package notify
 
 import (
-	"gioui.org/x/notify/macos"
+	"github.com/uorg-saver/gio-x/notify/macos"
 )
 
 type darwinNotifier struct {

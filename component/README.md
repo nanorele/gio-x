@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/component.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/component)
 
-This package provides various material design components for [gio](https://gioui.org).
+This package provides various material design components for [gio](https://github.com/uorg-saver/gio).
 
 ## State
 

@@ -1,6 +1,6 @@
 // Package notify provides cross-platform notifications for Gio applications.
 //
-//	https://gioui.org
+//	https://github.com/uorg-saver/gio
 //
 // Sending a notification is easy:
 //

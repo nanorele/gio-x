@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/outlay.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/outlay)
 
-This package provides extra layouts for [gio](https://gioui.org).
+This package provides extra layouts for [gio](https://github.com/uorg-saver/gio).
 
 ## State
 
