@@ -8,9 +8,9 @@ import (
 
 	"golang.org/x/image/colornames"
 
-	"gioui.org/f32"
-	"gioui.org/op"
-	"gioui.org/op/paint"
+	"github.com/uorg-saver/gio/f32"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/paint"
 )
 
 func TestStrokedPathBevelFlat(t *testing.T) {

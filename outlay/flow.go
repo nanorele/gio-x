@@ -3,8 +3,8 @@ package outlay
 import (
 	"image"
 
-	"gioui.org/layout"
-	"gioui.org/op"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
 )
 
 // inf is an infinite axis constraint.

@@ -19,7 +19,7 @@ void buzz() {
 import "C"
 
 import (
-	"gioui.org/app"
+	"github.com/uorg-saver/gio/app"
 )
 
 // Buzzer provides methods to trigger haptic feedback. On OSes other than android,

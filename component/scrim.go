@@ -3,9 +3,9 @@ package component
 import (
 	"image/color"
 
-	"gioui.org/layout"
-	"gioui.org/widget"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/widget"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // Scrim implments a clickable translucent overlay. It can animate appearing

@@ -15,9 +15,9 @@ import (
 	"os"
 	"strings"
 
-	"gioui.org/app"
-	"gioui.org/io/event"
 	"github.com/godbus/dbus/v5"
+	"github.com/uorg-saver/gio/app"
+	"github.com/uorg-saver/gio/io/event"
 )
 
 // explorer opens file explorers using the xdg-desktop-portal dbus protocol

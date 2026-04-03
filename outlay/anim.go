@@ -3,8 +3,8 @@ package outlay
 import (
 	"time"
 
-	"gioui.org/layout"
-	"gioui.org/op"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
 )
 
 // Animation holds state for an Animation between two states that

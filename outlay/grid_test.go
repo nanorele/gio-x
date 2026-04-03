@@ -5,15 +5,15 @@ import (
 	"testing"
 	"time"
 
-	"gioui.org/f32"
-	"gioui.org/io/event"
-	"gioui.org/io/input"
-	"gioui.org/io/pointer"
-	"gioui.org/io/system"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
-	"gioui.org/unit"
+	"github.com/uorg-saver/gio/f32"
+	"github.com/uorg-saver/gio/io/event"
+	"github.com/uorg-saver/gio/io/input"
+	"github.com/uorg-saver/gio/io/pointer"
+	"github.com/uorg-saver/gio/io/system"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/unit"
 )
 
 func TestGridLockedRows(t *testing.T) {

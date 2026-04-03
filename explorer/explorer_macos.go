@@ -21,8 +21,8 @@ import (
 	"os"
 	"strings"
 
-	"gioui.org/app"
-	"gioui.org/io/event"
+	"github.com/uorg-saver/gio/app"
+	"github.com/uorg-saver/gio/io/event"
 )
 
 type explorer struct {

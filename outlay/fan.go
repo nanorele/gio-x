@@ -5,10 +5,10 @@ import (
 	"image"
 	"math"
 
-	"gioui.org/f32"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/unit"
+	"github.com/uorg-saver/gio/f32"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/unit"
 )
 
 type Fan struct {

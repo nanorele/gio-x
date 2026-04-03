@@ -17,9 +17,9 @@ import (
 	"strings"
 	"unsafe"
 
-	"gioui.org/app"
-	"gioui.org/io/event"
 	"git.wow.st/gmp/jni"
+	"github.com/uorg-saver/gio/app"
+	"github.com/uorg-saver/gio/io/event"
 )
 
 //go:generate javac -source 8 -target 8 -bootclasspath $ANDROID_HOME/platforms/android-36/android.jar -d $TEMP/explorer_explorer_android/classes explorer_android.java

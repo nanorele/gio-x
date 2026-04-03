@@ -2,8 +2,8 @@
 package xjni
 
 import (
-	"gioui.org/app"
 	"git.wow.st/gmp/jni"
+	"github.com/uorg-saver/gio/app"
 )
 
 // DoInt invokes a static int method in the JVM and returns its results. lib is the path to the

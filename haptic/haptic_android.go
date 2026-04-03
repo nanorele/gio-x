@@ -10,8 +10,8 @@ package haptic
 import (
 	"unsafe"
 
-	"gioui.org/app"
 	"git.wow.st/gmp/jni"
+	"github.com/uorg-saver/gio/app"
 )
 
 // Buzzer provides methods to trigger haptic feedback

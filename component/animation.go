@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"gioui.org/layout"
-	"gioui.org/op"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
 )
 
 // VisibilityAnimation holds the animation state for animations that transition between a

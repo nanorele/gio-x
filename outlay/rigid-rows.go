@@ -1,8 +1,8 @@
 package outlay
 
 import (
-	"gioui.org/layout"
-	"gioui.org/op"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
 )
 
 // RigidRows lays out a sequence of rigid widgets along Axis until it runs out of out space.

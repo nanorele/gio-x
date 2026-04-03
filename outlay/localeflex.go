@@ -5,9 +5,9 @@ import (
 
 	"golang.org/x/exp/slices"
 
-	"gioui.org/io/system"
-	"gioui.org/layout"
-	"gioui.org/op"
+	"github.com/uorg-saver/gio/io/system"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
 )
 
 // mainConstraint returns the min and max main constraints for axis a.
@@ -35,7 +35,7 @@ func constraints(a layout.Axis, mainMin, mainMax, crossMin, crossMax int) layout
 }
 
 // Flex lays out child elements along an axis, according to alignment, weights, and
-// the configured system locale. It differs from gioui.org/layout.Flex by flipping
+// the configured system locale. It differs from github.com/uorg-saver/gio/layout.Flex by flipping
 // the visual order of its children in RTL locales.
 type Flex struct {
 	// Axis is the main axis, either Horizontal or Vertical.

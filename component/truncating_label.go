@@ -1,8 +1,8 @@
 package component
 
 import (
-	"gioui.org/layout"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // TruncatingLabelStyle is a type that forces a label to

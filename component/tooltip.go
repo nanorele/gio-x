@@ -5,15 +5,15 @@ import (
 	"image/color"
 	"time"
 
-	"gioui.org/io/event"
-	"gioui.org/io/pointer"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
-	"gioui.org/op/paint"
-	"gioui.org/unit"
-	"gioui.org/widget"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/io/event"
+	"github.com/uorg-saver/gio/io/pointer"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/op/paint"
+	"github.com/uorg-saver/gio/unit"
+	"github.com/uorg-saver/gio/widget"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // Tooltip implements a material design tool tip as defined at:

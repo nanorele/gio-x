@@ -6,14 +6,14 @@ import (
 	"math"
 	"time"
 
-	"gioui.org/f32"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
-	"gioui.org/op/paint"
-	"gioui.org/unit"
-	"gioui.org/widget"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/f32"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/op/paint"
+	"github.com/uorg-saver/gio/unit"
+	"github.com/uorg-saver/gio/widget"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // DiscloserState holds state for a widget that can hide and reveal

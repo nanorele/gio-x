@@ -4,15 +4,15 @@ import (
 	"image"
 	"time"
 
-	"gioui.org/f32"
-	"gioui.org/gesture"
-	"gioui.org/io/event"
-	"gioui.org/io/pointer"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
-	"gioui.org/unit"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/f32"
+	"github.com/uorg-saver/gio/gesture"
+	"github.com/uorg-saver/gio/io/event"
+	"github.com/uorg-saver/gio/io/pointer"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/unit"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // Sheet implements the standard side sheet described here:

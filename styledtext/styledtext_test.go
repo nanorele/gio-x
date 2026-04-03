@@ -4,13 +4,13 @@ import (
 	"image"
 	"testing"
 
-	"gioui.org/app"
-	"gioui.org/font"
-	"gioui.org/font/gofont"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/text"
-	"gioui.org/unit"
+	"github.com/uorg-saver/gio/app"
+	"github.com/uorg-saver/gio/font"
+	"github.com/uorg-saver/gio/font/gofont"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/text"
+	"github.com/uorg-saver/gio/unit"
 )
 
 // TestStyledtextRegressions checks for known regressions that have made styledtext hang in the

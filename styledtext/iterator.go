@@ -3,11 +3,11 @@ package styledtext
 import (
 	"image"
 
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
-	"gioui.org/op/paint"
-	"gioui.org/text"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/op/paint"
+	"github.com/uorg-saver/gio/text"
 	"golang.org/x/exp/constraints"
 	"golang.org/x/image/math/fixed"
 )

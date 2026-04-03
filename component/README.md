@@ -1,6 +1,6 @@
 # component
 
-[![Go Reference](https://pkg.go.dev/badge/gioui.org/x/component.svg)](https://pkg.go.dev/gioui.org/x/component)
+[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/component.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/component)
 
 This package provides various material design components for [gio](https://gioui.org).
 

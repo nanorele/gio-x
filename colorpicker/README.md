@@ -1,6 +1,6 @@
 # colorpicker
 
-[![Go Reference](https://pkg.go.dev/badge/gioui.org/x/colorpicker.svg)](https://pkg.go.dev/gioui.org/x/colorpicker)
+[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/colorpicker.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/colorpicker)
 
 This is a simple Gio package that provides widgets for choosing colors.
 

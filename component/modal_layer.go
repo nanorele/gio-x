@@ -3,9 +3,9 @@ package component
 import (
 	"time"
 
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // ModalLayer is a widget drawn on top of the normal UI that can be populated

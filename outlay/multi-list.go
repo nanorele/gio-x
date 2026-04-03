@@ -1,7 +1,7 @@
 package outlay
 
 import (
-	"gioui.org/layout"
+	"github.com/uorg-saver/gio/layout"
 )
 
 // Segment describes a list segment with an optional header.

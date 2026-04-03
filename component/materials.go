@@ -4,9 +4,9 @@ import (
 	"image"
 	"image/color"
 
-	"gioui.org/layout"
-	"gioui.org/op/clip"
-	"gioui.org/op/paint"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/op/paint"
 )
 
 type (

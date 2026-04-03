@@ -3,11 +3,11 @@ package component
 import (
 	"math"
 
-	"gioui.org/io/pointer"
-	"gioui.org/layout"
-	"gioui.org/widget"
-	"gioui.org/widget/material"
-	"gioui.org/x/outlay"
+	"github.com/uorg-saver/gio-x/outlay"
+	"github.com/uorg-saver/gio/io/pointer"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/widget"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // Grid holds the persistent state for a layout.List that has a

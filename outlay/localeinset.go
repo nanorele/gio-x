@@ -3,17 +3,17 @@ package outlay
 import (
 	"image"
 
-	"gioui.org/io/system"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/unit"
+	"github.com/uorg-saver/gio/io/system"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/unit"
 )
 
 // Inset adds space around a widget by decreasing its maximum
 // constraints. The minimum constraints will be adjusted to ensure
 // they do not exceed the maximum. Inset respects the system locale
 // provided at layout time, and will swap start/end insets for
-// RTL text. This differs from gioui.org/layout.Inset, which never
+// RTL text. This differs from github.com/uorg-saver/gio/layout.Inset, which never
 // swaps the sides contextually.
 type Inset struct {
 	Top, Bottom unit.Dp

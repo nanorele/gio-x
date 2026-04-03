@@ -4,14 +4,14 @@ import (
 	"image/color"
 	"log"
 
-	"gioui.org/app"
-	"gioui.org/font/gofont"
-	"gioui.org/gesture"
-	"gioui.org/op"
-	"gioui.org/text"
-	"gioui.org/unit"
-	"gioui.org/widget/material"
-	"gioui.org/x/richtext"
+	"github.com/uorg-saver/gio-x/richtext"
+	"github.com/uorg-saver/gio/app"
+	"github.com/uorg-saver/gio/font/gofont"
+	"github.com/uorg-saver/gio/gesture"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/text"
+	"github.com/uorg-saver/gio/unit"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 func Example() {

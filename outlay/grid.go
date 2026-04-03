@@ -5,11 +5,11 @@ package outlay
 import (
 	"image"
 
-	"gioui.org/gesture"
-	"gioui.org/io/pointer"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
+	"github.com/uorg-saver/gio/gesture"
+	"github.com/uorg-saver/gio/io/pointer"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
 )
 
 // AxisPosition describes the position of a viewport on a given axis.

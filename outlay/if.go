@@ -1,8 +1,8 @@
 package outlay
 
 import (
-	"gioui.org/layout"
-	"gioui.org/unit"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/unit"
 )
 
 // If shows a child widget if the boolean expression is true.

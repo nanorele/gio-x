@@ -3,11 +3,11 @@ package component
 import (
 	"image"
 
-	"gioui.org/gesture"
-	"gioui.org/io/pointer"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
+	"github.com/uorg-saver/gio/gesture"
+	"github.com/uorg-saver/gio/io/pointer"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
 )
 
 // Resize provides a draggable handle in between two widgets for resizing their area.

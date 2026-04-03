@@ -1,8 +1,8 @@
 package outlay
 
 import (
-	"gioui.org/layout"
-	"gioui.org/unit"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/unit"
 )
 
 // Spacer spaces along both axis according to the value.

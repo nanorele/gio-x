@@ -1,10 +1,10 @@
 ## gio-x
 
-[![Go Reference](https://pkg.go.dev/badge/gioui.org/x.svg)](https://pkg.go.dev/gioui.org/x)
+[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x)
 
-This repository hosts `gioui.org/x`. Two kinds of package exist in this namespace. Some are extensions that will eventually be merged into `gioui.org`'s core repository once their APIs stabilize and their value to the community is proven. The rest are extensions to Gio that are not likely to be needed by every application and require new dependencies. These will likely never be merged to the core repository, but will be maintained here.
+This repository hosts `github.com/uorg-saver/gio-x`. Two kinds of package exist in this namespace. Some are extensions that will eventually be merged into `gioui.org`'s core repository once their APIs stabilize and their value to the community is proven. The rest are extensions to Gio that are not likely to be needed by every application and require new dependencies. These will likely never be merged to the core repository, but will be maintained here.
 
-This table describes the current status of each package in `gioui.org/x`:
+This table describes the current status of each package in `github.com/uorg-saver/gio-x`:
 
 | Name        | Purpose                                     | Intended for core? | Non-core dependencies? | API Stability |
 | ----------- | ------------------------------------------- | ------------------ | ---------------------- | ------------- |

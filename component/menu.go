@@ -6,14 +6,14 @@ import (
 	"image"
 	"image/color"
 
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
-	"gioui.org/op/paint"
-	"gioui.org/unit"
-	"gioui.org/widget"
-	"gioui.org/widget/material"
-	"gioui.org/x/outlay"
+	"github.com/uorg-saver/gio-x/outlay"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/op/paint"
+	"github.com/uorg-saver/gio/unit"
+	"github.com/uorg-saver/gio/widget"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 // SurfaceStyle defines the visual aspects of a material design surface

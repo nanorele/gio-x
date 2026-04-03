@@ -6,12 +6,12 @@ import (
 	"image/color"
 	"unicode/utf8"
 
-	"gioui.org/font"
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/paint"
-	"gioui.org/text"
-	"gioui.org/unit"
+	"github.com/uorg-saver/gio/font"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/paint"
+	"github.com/uorg-saver/gio/text"
+	"github.com/uorg-saver/gio/unit"
 	"golang.org/x/image/math/fixed"
 )
 
@@ -43,14 +43,14 @@ func (ss SpanStyle) Layout(gtx layout.Context, shape spanShape) layout.Dimension
 
 // WrapPolicy defines line wrapping policies for styledtext. Due to complexities
 // of the styledtext implementation, there are fewer options available than in
-// [gioui.org/text.WrapPolicy].
+// [github.com/uorg-saver/gio/text.WrapPolicy].
 type WrapPolicy uint8
 
 const (
-	// WrapWords implements behavior like [gioui.org/text/.WrapWords]. This is the default,
+	// WrapWords implements behavior like [github.com/uorg-saver/gio/text/.WrapWords]. This is the default,
 	// as it prevents words from being split across lines.
 	WrapWords WrapPolicy = iota
-	// WrapWords implements behavior like [gioui.org/text/.WrapGraphemes]. This often gives
+	// WrapWords implements behavior like [github.com/uorg-saver/gio/text/.WrapGraphemes]. This often gives
 	// unpleasant results, as it will choose to split words across lines whenever it can. Some
 	// use-cases may still want this, however.
 	WrapGraphemes

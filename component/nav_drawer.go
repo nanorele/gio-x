@@ -5,14 +5,14 @@ import (
 	"image/color"
 	"time"
 
-	"gioui.org/font"
-	"gioui.org/io/event"
-	"gioui.org/io/pointer"
-	"gioui.org/layout"
-	"gioui.org/op/clip"
-	"gioui.org/unit"
-	"gioui.org/widget"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/font"
+	"github.com/uorg-saver/gio/io/event"
+	"github.com/uorg-saver/gio/io/pointer"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/unit"
+	"github.com/uorg-saver/gio/widget"
+	"github.com/uorg-saver/gio/widget/material"
 )
 
 var (

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"unsafe"
 
-	"gioui.org/app"
-	"gioui.org/io/event"
+	"github.com/uorg-saver/gio/app"
+	"github.com/uorg-saver/gio/io/event"
 	"golang.org/x/sys/windows"
 )
 

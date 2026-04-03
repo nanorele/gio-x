@@ -1,4 +1,4 @@
-# explorer [![Go Reference](https://pkg.go.dev/badge/gioui.org/x/explorer.svg)](https://pkg.go.dev/gioui.org/x/explorer)
+# explorer [![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/explorer.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/explorer)
 
 -----------
 

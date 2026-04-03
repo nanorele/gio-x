@@ -1,15 +1,15 @@
 // SPDX-License-Identifier: Unlicense OR MIT
 
-// Package stroke converts complex strokes to gioui.org/op/clip operations.
+// Package stroke converts complex strokes to github.com/uorg-saver/gio/op/clip operations.
 package stroke
 
 import (
 	"math"
 
-	"gioui.org/f32"
-	"gioui.org/op"
-	"gioui.org/op/clip"
 	"github.com/andybalholm/stroke"
+	"github.com/uorg-saver/gio/f32"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
 )
 
 // Path defines the shape of a Stroke.

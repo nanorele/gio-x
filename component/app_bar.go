@@ -7,12 +7,12 @@ import (
 	"sync"
 	"time"
 
-	"gioui.org/layout"
-	"gioui.org/op"
-	"gioui.org/op/clip"
-	"gioui.org/unit"
-	"gioui.org/widget"
-	"gioui.org/widget/material"
+	"github.com/uorg-saver/gio/layout"
+	"github.com/uorg-saver/gio/op"
+	"github.com/uorg-saver/gio/op/clip"
+	"github.com/uorg-saver/gio/unit"
+	"github.com/uorg-saver/gio/widget"
+	"github.com/uorg-saver/gio/widget/material"
 	"golang.org/x/exp/shiny/materialdesign/icons"
 )
 
