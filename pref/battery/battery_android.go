@@ -2,8 +2,8 @@ package battery
 
 import (
 	"git.wow.st/gmp/jni"
-	"github.com/uorg-saver/gio-x/pref/internal/xjni"
-	"github.com/uorg-saver/gio/app"
+	"github.com/nanorele/gio-x/pref/internal/xjni"
+	"github.com/nanorele/gio/app"
 )
 
 //go:generate javac -source 8 -target 8 -bootclasspath $ANDROID_HOME/platforms/android-29/android.jar -d $TEMP/pref_battery/classes battery_android.java

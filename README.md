@@ -1,10 +1,10 @@
 ## gio-x
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x)
+[![Go Reference](https://pkg.go.dev/badge/github.com/nanorele/gio-x.svg)](https://pkg.go.dev/github.com/nanorele/gio-x)
 
-This repository hosts `github.com/uorg-saver/gio-x`. Two kinds of package exist in this namespace. Some are extensions that will eventually be merged into `github.com/uorg-saver/gio`'s core repository once their APIs stabilize and their value to the community is proven. The rest are extensions to Gio that are not likely to be needed by every application and require new dependencies. These will likely never be merged to the core repository, but will be maintained here.
+This repository hosts `github.com/nanorele/gio-x`. Two kinds of package exist in this namespace. Some are extensions that will eventually be merged into `github.com/nanorele/gio`'s core repository once their APIs stabilize and their value to the community is proven. The rest are extensions to Gio that are not likely to be needed by every application and require new dependencies. These will likely never be merged to the core repository, but will be maintained here.
 
-This table describes the current status of each package in `github.com/uorg-saver/gio-x`:
+This table describes the current status of each package in `github.com/nanorele/gio-x`:
 
 | Name        | Purpose                                     | Intended for core? | Non-core dependencies? | API Stability |
 | ----------- | ------------------------------------------- | ------------------ | ---------------------- | ------------- |

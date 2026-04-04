@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
 )
 
 // VisibilityAnimation holds the animation state for animations that transition between a

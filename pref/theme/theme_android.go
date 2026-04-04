@@ -4,7 +4,7 @@ package theme
 //go:generate jar cf theme_android.jar -C $TEMP/pref_theme/classes .
 
 import (
-	"github.com/uorg-saver/gio-x/pref/internal/xjni"
+	"github.com/nanorele/gio-x/pref/internal/xjni"
 )
 
 var (

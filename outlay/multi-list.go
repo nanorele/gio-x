@@ -1,7 +1,7 @@
 package outlay
 
 import (
-	"github.com/uorg-saver/gio/layout"
+	"github.com/nanorele/gio/layout"
 )
 
 // Segment describes a list segment with an optional header.

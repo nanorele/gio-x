@@ -1,8 +1,8 @@
 # outlay
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/outlay.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/outlay)
+[![Go Reference](https://pkg.go.dev/badge/github.com/nanorele/gio-x/outlay.svg)](https://pkg.go.dev/github.com/nanorele/gio-x/outlay)
 
-This package provides extra layouts for [gio](https://github.com/uorg-saver/gio).
+This package provides extra layouts for [gio](https://github.com/nanorele/gio).
 
 ## State
 

@@ -1,4 +1,4 @@
-# pref [![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/pref.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/pref)
+# pref [![Go Reference](https://pkg.go.dev/badge/github.com/nanorele/gio-x/pref.svg)](https://pkg.go.dev/github.com/nanorele/gio-x/pref)
 
 -------------
 
@@ -6,7 +6,7 @@ Get the user preferences for your Gio app.
 
 ## What can it be used for?
 
-The [Theme](https://pkg.go.dev/github.com/uorg-saver/gio-x/pref/theme) package provides `IsDarkMode`, which can be used to
+The [Theme](https://pkg.go.dev/github.com/nanorele/gio-x/pref/theme) package provides `IsDarkMode`, which can be used to
 change your palette in order to honor the user's preferences.
 
 ```go
@@ -24,7 +24,7 @@ if isDark {
 }
 ```
 
-The [Locale](https://pkg.go.dev/github.com/uorg-saver/gio-x/pref/locale) makes possible to match the user language preference, that
+The [Locale](https://pkg.go.dev/github.com/nanorele/gio-x/pref/locale) makes possible to match the user language preference, that
 is important for multi-language apps. So, let your app speak the user's native language.
 
 ```go
@@ -64,6 +64,6 @@ platform that isn't supported.
 
 | Package                                                | OS                                                                     | 
 |--------------------------------------------------------|------------------------------------------------------------------------| 
-| [Locale](https://pkg.go.dev/github.com/uorg-saver/gio-x/pref/locale)   | Android 6+  <br> JS <br> Linux <br> Windows Vista+ <br> iOS <br> macOS | 
-| [Theme](https://pkg.go.dev/github.com/uorg-saver/gio-x/pref/theme)     | Android 4+ <br> JS <br> Windows 10+ <br> iOS <br> macOS                | 
-| [Battery](https://pkg.go.dev/github.com/uorg-saver/gio-x/pref/battery) | Android 6+ <br> JS (Chrome) <br> Windows Vista+                        | 
+| [Locale](https://pkg.go.dev/github.com/nanorele/gio-x/pref/locale)   | Android 6+  <br> JS <br> Linux <br> Windows Vista+ <br> iOS <br> macOS | 
+| [Theme](https://pkg.go.dev/github.com/nanorele/gio-x/pref/theme)     | Android 4+ <br> JS <br> Windows 10+ <br> iOS <br> macOS                | 
+| [Battery](https://pkg.go.dev/github.com/nanorele/gio-x/pref/battery) | Android 6+ <br> JS (Chrome) <br> Windows Vista+                        | 

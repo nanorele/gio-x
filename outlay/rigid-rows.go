@@ -1,8 +1,8 @@
 package outlay
 
 import (
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
 )
 
 // RigidRows lays out a sequence of rigid widgets along Axis until it runs out of out space.

@@ -16,8 +16,8 @@ import (
 	"strings"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/uorg-saver/gio/app"
-	"github.com/uorg-saver/gio/io/event"
+	"github.com/nanorele/gio/app"
+	"github.com/nanorele/gio/io/event"
 )
 
 // explorer opens file explorers using the xdg-desktop-portal dbus protocol

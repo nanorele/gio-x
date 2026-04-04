@@ -3,11 +3,11 @@ package styledtext
 import (
 	"image"
 
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/op/clip"
-	"github.com/uorg-saver/gio/op/paint"
-	"github.com/uorg-saver/gio/text"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/op/clip"
+	"github.com/nanorele/gio/op/paint"
+	"github.com/nanorele/gio/text"
 	"golang.org/x/exp/constraints"
 	"golang.org/x/image/math/fixed"
 )

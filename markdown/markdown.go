@@ -14,9 +14,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/uorg-saver/gio-x/richtext"
-	"github.com/uorg-saver/gio/font"
-	"github.com/uorg-saver/gio/unit"
+	"github.com/nanorele/gio-x/richtext"
+	"github.com/nanorele/gio/font"
+	"github.com/nanorele/gio/unit"
 
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/ast"

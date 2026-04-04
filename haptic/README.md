@@ -1,6 +1,6 @@
 # haptic
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/haptic.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/haptic)
+[![Go Reference](https://pkg.go.dev/badge/github.com/nanorele/gio-x/haptic.svg)](https://pkg.go.dev/github.com/nanorele/gio-x/haptic)
 
 Haptic feedback for Gio applications
 

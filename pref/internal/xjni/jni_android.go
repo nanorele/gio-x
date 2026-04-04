@@ -3,7 +3,7 @@ package xjni
 
 import (
 	"git.wow.st/gmp/jni"
-	"github.com/uorg-saver/gio/app"
+	"github.com/nanorele/gio/app"
 )
 
 // DoInt invokes a static int method in the JVM and returns its results. lib is the path to the

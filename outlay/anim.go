@@ -3,8 +3,8 @@ package outlay
 import (
 	"time"
 
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
 )
 
 // Animation holds state for an Animation between two states that

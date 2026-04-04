@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/uorg-saver/gio/app"
+	"github.com/nanorele/gio/app"
 
 	"git.wow.st/gmp/jni"
 )

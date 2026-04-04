@@ -16,9 +16,9 @@ import (
 
 	"golang.org/x/image/colornames"
 
-	"github.com/uorg-saver/gio/gpu/headless"
-	"github.com/uorg-saver/gio/internal/f32color"
-	"github.com/uorg-saver/gio/op"
+	"github.com/nanorele/gio/gpu/headless"
+	"github.com/nanorele/gio/internal/f32color"
+	"github.com/nanorele/gio/op"
 )
 
 var (

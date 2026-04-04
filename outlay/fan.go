@@ -5,10 +5,10 @@ import (
 	"image"
 	"math"
 
-	"github.com/uorg-saver/gio/f32"
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/unit"
+	"github.com/nanorele/gio/f32"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/unit"
 )
 
 type Fan struct {

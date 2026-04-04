@@ -1,8 +1,8 @@
 package outlay
 
 import (
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/unit"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/unit"
 )
 
 // If shows a child widget if the boolean expression is true.

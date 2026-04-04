@@ -4,13 +4,13 @@ import (
 	"image"
 	"testing"
 
-	"github.com/uorg-saver/gio/app"
-	"github.com/uorg-saver/gio/font"
-	"github.com/uorg-saver/gio/font/gofont"
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/text"
-	"github.com/uorg-saver/gio/unit"
+	"github.com/nanorele/gio/app"
+	"github.com/nanorele/gio/font"
+	"github.com/nanorele/gio/font/gofont"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/text"
+	"github.com/nanorele/gio/unit"
 )
 
 // TestStyledtextRegressions checks for known regressions that have made styledtext hang in the

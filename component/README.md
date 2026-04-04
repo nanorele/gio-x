@@ -1,8 +1,8 @@
 # component
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/component.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/component)
+[![Go Reference](https://pkg.go.dev/badge/github.com/nanorele/gio-x/component.svg)](https://pkg.go.dev/github.com/nanorele/gio-x/component)
 
-This package provides various material design components for [gio](https://github.com/uorg-saver/gio).
+This package provides various material design components for [gio](https://github.com/nanorele/gio).
 
 ## State
 

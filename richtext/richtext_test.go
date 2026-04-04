@@ -5,13 +5,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/uorg-saver/gio/font/gofont"
-	"github.com/uorg-saver/gio/io/input"
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/text"
-	"github.com/uorg-saver/gio/unit"
-	"github.com/uorg-saver/gio/widget/material"
+	"github.com/nanorele/gio/font/gofont"
+	"github.com/nanorele/gio/io/input"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/text"
+	"github.com/nanorele/gio/unit"
+	"github.com/nanorele/gio/widget/material"
 )
 
 // TestNilInteractiveText ensures that it is safe to lay out

@@ -3,8 +3,8 @@ package outlay
 import (
 	"image"
 
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
 )
 
 // inf is an infinite axis constraint.

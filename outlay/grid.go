@@ -5,11 +5,11 @@ package outlay
 import (
 	"image"
 
-	"github.com/uorg-saver/gio/gesture"
-	"github.com/uorg-saver/gio/io/pointer"
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/op/clip"
+	"github.com/nanorele/gio/gesture"
+	"github.com/nanorele/gio/io/pointer"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/op/clip"
 )
 
 // AxisPosition describes the position of a viewport on a given axis.

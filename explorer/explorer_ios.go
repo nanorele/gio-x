@@ -33,8 +33,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/uorg-saver/gio/app"
-	"github.com/uorg-saver/gio/io/event"
+	"github.com/nanorele/gio/app"
+	"github.com/nanorele/gio/io/event"
 )
 
 type explorer struct {

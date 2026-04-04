@@ -3,9 +3,9 @@ package component
 import (
 	"image/color"
 
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/widget"
-	"github.com/uorg-saver/gio/widget/material"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/widget"
+	"github.com/nanorele/gio/widget/material"
 )
 
 // Scrim implments a clickable translucent overlay. It can animate appearing

@@ -5,7 +5,7 @@ import (
 	"io"
 
 	"git.wow.st/gmp/jni"
-	"github.com/uorg-saver/gio/app"
+	"github.com/nanorele/gio/app"
 )
 
 //go:generate javac -source 8 -target 8 -bootclasspath $ANDROID_HOME/platforms/android-36/android.jar -d $TEMP/explorer_file_android/classes file_android.java

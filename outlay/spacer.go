@@ -1,8 +1,8 @@
 package outlay
 
 import (
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/unit"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/unit"
 )
 
 // Spacer spaces along both axis according to the value.

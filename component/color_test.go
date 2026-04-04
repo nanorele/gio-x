@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	materials "github.com/uorg-saver/gio-x/component"
+	materials "github.com/nanorele/gio-x/component"
 )
 
 type interpolationTest struct {

@@ -3,9 +3,9 @@ package component
 import (
 	"time"
 
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/widget/material"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/widget/material"
 )
 
 // ModalLayer is a widget drawn on top of the normal UI that can be populated

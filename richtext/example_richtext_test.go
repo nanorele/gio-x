@@ -4,14 +4,14 @@ import (
 	"image/color"
 	"log"
 
-	"github.com/uorg-saver/gio-x/richtext"
-	"github.com/uorg-saver/gio/app"
-	"github.com/uorg-saver/gio/font/gofont"
-	"github.com/uorg-saver/gio/gesture"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/text"
-	"github.com/uorg-saver/gio/unit"
-	"github.com/uorg-saver/gio/widget/material"
+	"github.com/nanorele/gio-x/richtext"
+	"github.com/nanorele/gio/app"
+	"github.com/nanorele/gio/font/gofont"
+	"github.com/nanorele/gio/gesture"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/text"
+	"github.com/nanorele/gio/unit"
+	"github.com/nanorele/gio/widget/material"
 )
 
 func Example() {

@@ -1,8 +1,8 @@
 ## notify
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/uorg-saver/gio-x/notify.svg)](https://pkg.go.dev/github.com/uorg-saver/gio-x/notify)
+[![Go Reference](https://pkg.go.dev/badge/github.com/nanorele/gio-x/notify.svg)](https://pkg.go.dev/github.com/nanorele/gio-x/notify)
 
-Cross platform notifications for [Gio](https://github.com/uorg-saver/gio) applications.
+Cross platform notifications for [Gio](https://github.com/nanorele/gio) applications.
 
 ## Status
 

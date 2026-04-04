@@ -11,7 +11,7 @@ import (
 	"unsafe"
 
 	"git.wow.st/gmp/jni"
-	"github.com/uorg-saver/gio/app"
+	"github.com/nanorele/gio/app"
 )
 
 // Buzzer provides methods to trigger haptic feedback

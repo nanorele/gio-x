@@ -3,17 +3,17 @@ package outlay
 import (
 	"image"
 
-	"github.com/uorg-saver/gio/io/system"
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/op"
-	"github.com/uorg-saver/gio/unit"
+	"github.com/nanorele/gio/io/system"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/op"
+	"github.com/nanorele/gio/unit"
 )
 
 // Inset adds space around a widget by decreasing its maximum
 // constraints. The minimum constraints will be adjusted to ensure
 // they do not exceed the maximum. Inset respects the system locale
 // provided at layout time, and will swap start/end insets for
-// RTL text. This differs from github.com/uorg-saver/gio/layout.Inset, which never
+// RTL text. This differs from github.com/nanorele/gio/layout.Inset, which never
 // swaps the sides contextually.
 type Inset struct {
 	Top, Bottom unit.Dp

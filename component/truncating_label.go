@@ -1,8 +1,8 @@
 package component
 
 import (
-	"github.com/uorg-saver/gio/layout"
-	"github.com/uorg-saver/gio/widget/material"
+	"github.com/nanorele/gio/layout"
+	"github.com/nanorele/gio/widget/material"
 )
 
 // TruncatingLabelStyle is a type that forces a label to
