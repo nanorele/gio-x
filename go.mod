@@ -10,7 +10,7 @@ require (
 	github.com/andybalholm/stroke v0.0.0-20251027184313-5126dd7227a1
 	github.com/esiqveland/notify v0.11.0
 	github.com/godbus/dbus/v5 v5.0.6
-	github.com/nanorele/gio v1.0.1
+	github.com/nanorele/gio v1.0.2
 	github.com/yuin/goldmark v1.4.13
 	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
 	golang.org/x/exp/shiny v0.0.0-20250408133849-7e4ce0ab07d0
