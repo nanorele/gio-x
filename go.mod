@@ -1,8 +1,6 @@
 module github.com/nanorele/gio-x
 
-go 1.24.0
-
-toolchain go1.24.11
+go 1.25.5
 
 require (
 	git.sr.ht/~jackmordaunt/go-toast v1.0.0
@@ -10,7 +8,7 @@ require (
 	github.com/andybalholm/stroke v0.0.0-20251027184313-5126dd7227a1
 	github.com/esiqveland/notify v0.11.0
 	github.com/godbus/dbus/v5 v5.0.6
-	github.com/nanorele/gio v1.0.5
+	github.com/nanorele/gio v1.1.0
 	github.com/yuin/goldmark v1.4.13
 	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
 	golang.org/x/exp/shiny v0.0.0-20250408133849-7e4ce0ab07d0
@@ -20,8 +18,8 @@ require (
 )
 
 require (
-	gioui.org/shader v1.0.8 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
-	github.com/go-text/typesetting v0.3.0 // indirect
+	github.com/nanorele/gio-shader v1.0.0 // indirect
+	github.com/nanorele/typesetting v1.0.1 // indirect
 	golang.org/x/net v0.48.0 // indirect
 )
