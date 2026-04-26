@@ -14,8 +14,8 @@ github.com/go-ole/go-ole v1.2.6/go.mod h1:pprOEPIfldk/42T2oK7lQ4v4JSDwmV0As9GaiU
 github.com/godbus/dbus/v5 v5.0.3/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/godbus/dbus/v5 v5.0.6 h1:mkgN1ofwASrYnJ5W6U/BxG15eXXXjirgZc7CLqkcaro=
 github.com/godbus/dbus/v5 v5.0.6/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
-github.com/nanorele/gio v1.1.0 h1:nTEEEnZaPicKxMDqoQlf7vrgsVCdn9vG+Vbb/9nHBhg=
-github.com/nanorele/gio v1.1.0/go.mod h1:TotAzRCoshIrv+qwscU50CgVm5PzXE3XScLUifxTuTw=
+github.com/nanorele/gio v1.1.1 h1:drzyea3AZW3qK5KX0cjoqb28botcaXCS8wwk80RuUts=
+github.com/nanorele/gio v1.1.1/go.mod h1:TotAzRCoshIrv+qwscU50CgVm5PzXE3XScLUifxTuTw=
 github.com/nanorele/gio-shader v1.0.0 h1:NyxLgvitZuKCy8YBi4kOvt4jo2DVk/UaTesenI+h0KA=
 github.com/nanorele/gio-shader v1.0.0/go.mod h1:Y0ItuWbLAtwV+RVE6iJ5dD9jfhUKDC8cVPE0/IrqWEY=
 github.com/nanorele/typesetting v1.0.1 h1:etg4kNIE+CyaDFxhHIKpkEvMjOtDNF0S5ENVdbycEaA=
