@@ -2,3 +2,4 @@
 *.class
 example/example
 example/example.app/Contents/MacOS/example
+.claude
